@@ -9,3 +9,5 @@ Open up `src/index.js` and if you have eslint configured you should see somethin
 ![Eslint Example](images/eslint-example.png)
 
 If you do see the red squiggly lines, then eslint is working properly.
+
+If you save and see the code reformatted, then prettier is working properly.
